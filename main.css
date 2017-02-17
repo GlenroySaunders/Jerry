@@ -1,0 +1,25 @@
+html {
+      
+}
+.navbar{
+    
+}
+
+.navbar > li{
+    
+}
+
+.booklist{
+    background: url(photo/book-club-recomendations.jpg);
+   height: 350px;
+    width: 100%;
+    width: auto;
+  
+    /*background-repeat: no-repeat;*/
+}
+
+.search{
+    display: inline-block;
+    margin-left: 80%;
+    padding: 12px 20px 45px 12px;
+}
